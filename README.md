@@ -13,7 +13,10 @@ You may use API requests for testing The platform has following API endpoints:
 
 **Create import:**
 ```
-POST /api/imports content-type: multipart/form-data import[file]=@list.csv import[title]=MyImport
+POST /api/imports 
+content-type: multipart/form-data 
+import[file]=@list.csv 
+import[title]=MyImport
 ```
 
 **Start import:**
@@ -24,6 +27,13 @@ POST /api/imports/<import_id>/start
 **Get import:**
 ```
 GET /api/imports/<import_id>
+```
+
+**Update import:**
+```
+PUT /api/imports/<import_id>
+content-type: multipart/form-data
+import[title]=MyImport
 ```
 
 **Get customers:**
