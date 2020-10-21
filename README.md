@@ -18,8 +18,16 @@ POST /api/imports content-type: multipart/form-data import[file]=@list.csv impor
 
 **Start import:**
 ```
-POST /api/imports/<import_id>/start Get import:
-GET /api/imports/<import_id> Get customers:
+POST /api/imports/<import_id>/start
+```
+
+**Get import:**
+```
+GET /api/imports/<import_id>
+```
+
+**Get customers:**
+```
 GET /api/imports/<import_id>/customers
 ```
 
