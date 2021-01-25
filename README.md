@@ -6,7 +6,7 @@ CSV file must contain the following mandatory values: first_name, last_name, ema
 The system is available by: https://testtaskmatic.herokuapp.com
 
 ### Requirements
-Write test cases for platform Test app with help of TC and find all possible defects Use Google Sheet for bugs and test cases (we will send you a link) 
+Write test documentation (checklist/test case) for platform Test app with help of TC and find all possible defects Use Google Sheet for bugs and test cases (we will send you a link) 
 
 ### Recommendations
 You may use API requests for testing The platform has following API endpoints:
