@@ -6,9 +6,14 @@ CSV file must contain the following mandatory values: first_name, last_name, ema
 The system is available by: https://testtaskmatic.herokuapp.com
 
 ### Requirements
-Write test documentation (checklist/test case) for platform Test app with help of TC and find all possible defects Use Google Sheet for bugs and test cases (we will send you a link) 
+* Prepare test documentation (set of checklists/test cases) for platform - define the sufficient number of test arterafacts, but don't overkill yourself with exhaustive coverage.   
+* Test app with help of test documentation and find all possible defects. 
+* Use Google Sheet for bugs and test cases (we will send you a link).
+* Compose the brief execution report based on the test results and discovered issues (choose any preferable representation - excel, ppt, doc, etc.)
 
 ### Recommendations
+Recommended duration for the test task is 3 days.
+
 You may use API requests for testing The platform has following API endpoints:
 
 **Create import:**
