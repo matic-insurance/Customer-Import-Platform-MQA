@@ -13,6 +13,7 @@ The system is available by: https://testtaskmatic.herokuapp.com
 
 ### Recommendations
 Recommended duration for the test task is 3 days.
+(Expected hourly duration is 6-8 hours)
 
 You may use API requests for testing The platform has following API endpoints:
 
